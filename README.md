@@ -24,7 +24,7 @@ For more specific information on cleaning data please refer to the Jupyter Noteb
 
 H0: Industry and got_deal: Fail to reject the null hypothesis, Industry does not have strong association with got_deal, where the effect size is small. 
 
-H1: Original_amount_ask and total_deal_amount: Rejected the null hypothsis, The mean of original amount asked by entreprenuer is not equal to the total_deal_amount, where the effect size is medium. 
+H1: Original_amount_ask and total_deal_amount: Rejected the null hypothsis, The mean of original amount asked by entrepreneur is not equal to the total_deal_amount, where the effect size is medium. 
 
 H2: Original_offered_equity and total_deal_equity: Fail to reject the null hypothesis, The mean of original_offered_equity by entrepreneur is less than and equal the total_deal_equity, where the effect size is small. 
 
